@@ -8,7 +8,7 @@ no Instituto Politecnico de Viana do Castelo.
 ##
 <div style="display: flexbox;">
     <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=rubendaluz&show_icons=true&theme=github_dark">
-    <img align="center" height="180em" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact">
+    <img align="center" max-width="100%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubendaluz&layout=compact">
 </div>
 
 
