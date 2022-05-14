@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Ruben da Luz  👋
 
 - ⚡ Trabalho com redes, desenvovimento Front-end e de software.
-- 🔭 Atualmente estudando linguagem C,JS e ract.
+- 🔭 Atualmente estudando linguagem C,JS e react.
 - 🌱 Fazendo licenciatura em Engenhária de Redes e Sistemas de Computadores <br/>
 no Instituto Politecnico de Viana do Castelo.
 
