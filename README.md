@@ -20,7 +20,7 @@ no Instituto Politecnico de Viana do Castelo.
     <img align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="">
 </div>
 
-##
+##Skills
 <div>
     <a href="mailto:rubendaluz684@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
