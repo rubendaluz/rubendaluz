@@ -6,21 +6,14 @@
 no Instituto Politecnico de Viana do Castelo.
 
 ## Skills
-<style>
-    img{
-        heigth: "40",
-        width: 50,
-    }
-</style>
-
 <div style="display: flexbox; flex-direction: row;">
     <img align="center" height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=rubendaluz&show_icons=true&theme=github_dark">
     <img align="center" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubendaluz&layout=compact">
 </div>
 
 <div><br/>
-    <img align="center"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="">
-    <img align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="">
+    <img align="center"  width="50" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="">
+    <img align="center" width="50" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="">
     <img align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="">
     <img align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="">
     <img align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="">
