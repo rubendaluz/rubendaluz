@@ -8,7 +8,7 @@ no Instituto Politecnico de Viana do Castelo.
 ## Skills
 <style>
     img{
-        heigth: 40,
+        heigth: "40",
         width: 50,
     }
 </style>
