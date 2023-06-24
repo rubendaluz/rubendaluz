@@ -19,7 +19,7 @@ no Instituto Politecnico de Viana do Castelo.
     <img align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="">
     <img align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="">
     <img align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="">
-    <img align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="">
+    <img align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="">
 </div>
 
 ## Socials
