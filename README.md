@@ -5,7 +5,7 @@
 - 🌱 Fazendo licenciatura em Engenhária de Redes e Sistemas de Computadores <br/>
 no Instituto Politecnico de Viana do Castelo.
 
-##
+## Skills
 <div style="display: flexbox; flex-direction: row;">
     <img align="center" height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=rubendaluz&show_icons=true&theme=github_dark">
     <img align="center" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubendaluz&layout=compact">
@@ -20,7 +20,7 @@ no Instituto Politecnico de Viana do Castelo.
     <img align="center" width="40" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="">
 </div>
 
-## Skills
+## Socials
 <div>
     <a href="mailto:rubendaluz684@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
