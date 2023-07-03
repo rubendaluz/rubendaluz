@@ -1,5 +1,11 @@
 # Hi! 👋 My name is Rúben da Luz
 
+## 
+<div style="display: flexbox; flex-direction: row;">
+    <img align="center" height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=rubendaluz&show_icons=true&theme=github_dark">
+    <img align="center" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubendaluz&layout=compact">
+</div>
+
 # Main Skills
 <div><br/>
     <img align="center"  width="60" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="">
@@ -28,8 +34,4 @@ at IPVC.
     <a href="https://linguagemcp.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a>
 </div>
 
-## 
-<div style="display: flexbox; flex-direction: row;">
-    <img align="center" height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=rubendaluz&show_icons=true&theme=github_dark">
-    <img align="center" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubendaluz&layout=compact">
-</div>
+
