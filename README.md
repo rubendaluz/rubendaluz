@@ -1,4 +1,4 @@
-## Hi! 👋 My name is Rúben da Luz
+# Hi! 👋 My name is Rúben da Luz
 
 ## Skills
 <div><br/>
@@ -15,7 +15,8 @@
 </div>
 
 ##
-*  I'm based at Portugal 
+*  I'm based at Portugal
+* ✉️ I can be contacted at [rubendaluz684@gmail.com](mailto:rubendaluz684@gmail.com)
 * 🔭 Learning React
 * 🌱 Pursuing a degree in Network Engineering and Computer Systems <br/>
 at IPVC.
