@@ -1,15 +1,9 @@
-## Olá! Eu sou o Ruben da Luz  👋
+## Hi! 👋 My name is Rúben da Luz
 
-- ⚡ Trabalho com redes, desenvovimento Front-end e de software.
-- 🔭 Atualmente estudando linguagem C,JS e react.
-- 🌱 Fazendo licenciatura em Engenhária de Redes e Sistemas de Computadores <br/>
-no Instituto Politecnico de Viana do Castelo.
-
-## 
-<div style="display: flexbox; flex-direction: row;">
-    <img align="center" height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=rubendaluz&show_icons=true&theme=github_dark">
-    <img align="center" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubendaluz&layout=compact">
-</div>
+-  I'm based at Portugal 
+- 🔭 Learning React
+- 🌱 Pursuing a degree in Network Engineering and Computer Systems <br/>
+at IPVC.
 
 ## Skills
 <div><br/>
@@ -30,4 +24,10 @@ no Instituto Politecnico de Viana do Castelo.
     <a href="mailto:rubendaluz684@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/rubendaluz/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://linguagemcp.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a>
+</div>
+
+## 
+<div style="display: flexbox; flex-direction: row;">
+    <img align="center" height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=rubendaluz&show_icons=true&theme=github_dark">
+    <img align="center" height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubendaluz&layout=compact">
 </div>
