@@ -1,6 +1,6 @@
 # Hi! 👋 My name is Rúben da Luz
 
-# Skills
+# Main Skills
 <div><br/>
     <img align="center"  width="60" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="">
     <img align="center" width="60" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="">
