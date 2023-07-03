@@ -1,10 +1,5 @@
 ## Hi! 👋 My name is Rúben da Luz
 
--  I'm based at Portugal 
-- 🔭 Learning React
-- 🌱 Pursuing a degree in Network Engineering and Computer Systems <br/>
-at IPVC.
-
 ## Skills
 <div><br/>
     <img align="center"  width="60" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="">
@@ -18,6 +13,12 @@ at IPVC.
     <img align="center" width="60" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="">
     <img align="center" width="60" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="">
 </div>
+
+##
+*  I'm based at Portugal 
+* 🔭 Learning React
+* 🌱 Pursuing a degree in Network Engineering and Computer Systems <br/>
+at IPVC.
 
 ## Socials
 <div>
